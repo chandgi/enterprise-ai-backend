@@ -187,10 +187,10 @@ Each controller calls a corresponding service:
     embedService.js → Text embedding & storing
     memoryService.js → AI memory retrieval
     ollamaService.js → Direct Ollama LLM queries
-
+    
 Enhancements
 
-    ✅ Added jest & supertest → Unit & API testing support.
-    ✅ Added eslint & prettier → Code linting & formatting.
-    ✅ Added axios & cors → Handling HTTP requests & CORS.
-    ✅ Added lint & format scripts → Ensuring code quality.
+  ✅ Added jest & supertest → Unit & API testing support.
+  ✅ Added eslint & prettier → Code linting & formatting.
+  ✅ Added axios & cors → Handling HTTP requests & CORS.
+  ✅ Added lint & format scripts → Ensuring code quality.
